@@ -1,0 +1,15 @@
+Run "make" in order to make an executable of the game
+Also you should have OpenGl installed on your computer
+
+Controls -
+
+'B' or 'b' selects the cannon
+'R' or 'r' selects the red basket
+'G' or 'g' selects the green basket
+Left and Right arrow keys translate the selcted object left and rigtht respectively
+Up and Down arrow keys rotate the cannon left and right when it is selected
+Spacebar shoots lasers at intervals on 1 second when cannon is selected
+Mouse left click can be used to select and drag objects
+Mouse right click can be used to rotate the cannon
+'P' or 'p' pauses the game
+'Q' or 'q' or 'ESC' to keys exit the game
